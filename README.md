@@ -1,4 +1,4 @@
 play-test-app
 =============
 
-Play Test application to deploy with codeship
+This is a Play test app to deploy to different services with Codeship
