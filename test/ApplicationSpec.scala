@@ -27,4 +27,5 @@ class ApplicationSpec extends Specification {
       contentAsString(home) must contain ("Your new application is ready.")
     }
   }
+  
 }
